@@ -1,2 +1,3 @@
 # project-planning
-Contains hits for team planning
+Go to the Wiki for guidelines and hits for team planning.
+
